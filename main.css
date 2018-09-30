@@ -1,0 +1,20 @@
+header{
+  margin-bottom: 15px;
+}
+.carousel-control-prev{
+    background: linear-gradient(90deg, grey, white);
+}
+.carousel-control-next{
+  background: linear-gradient(90deg, white, grey);
+}
+footer{
+	text-align:left;
+	background-color:grey;
+	height: 90px;
+  padding-left: 20px;
+}
+footer span {
+  text-align: left;
+	display: inline-block;
+	padding: 40px;
+}
