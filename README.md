@@ -1,0 +1,3 @@
+# EasyShop
+
+MADE USING HTML AND CSS
